@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormCam", "FormCam\FormCam.csproj", "{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

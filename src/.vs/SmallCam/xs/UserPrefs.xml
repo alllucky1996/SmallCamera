@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormCam/requyre.txt">
+    <Files>
+      <File FileName="FormCam/Form1.cs" Line="20" Column="32" />
+      <File FileName="FormCam/requyre.txt" Line="6" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmallCam" expanded="True">
+            <Node name="FormCam" expanded="True">
+              <Node name="requyre.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.FormCam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
