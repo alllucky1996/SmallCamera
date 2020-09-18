@@ -34,7 +34,7 @@ namespace FormCam
                     var dtF = _frame.ToImage<Bgr, byte>().ToBitmap();
                     picCam.Image = dtF;
                 }
-
+                Emgu.CV.CvInvoke.BitwiseXor
             }
         }
 

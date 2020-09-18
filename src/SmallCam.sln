@@ -1,17 +1,40 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormCam", "FormCam\FormCam.csproj", "{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cam", "Cam\Cam.csproj", "{7752FD73-C16C-4654-96AE-C64BD9AC8175}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Release|x86.ActiveCfg = Release|Any CPU
 		{AE6B7BEE-2005-49CE-B808-3A5B0A7E384B}.Release|x86.Build.0 = Release|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Debug|x86.Build.0 = Debug|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Release|x86.ActiveCfg = Release|Any CPU
+		{7752FD73-C16C-4654-96AE-C64BD9AC8175}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C599C9-5E67-4BF3-9932-9BA49CA1C757}
 	EndGlobalSection
 EndGlobal
